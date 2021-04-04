@@ -1,0 +1,26 @@
+[type=radio] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+[type=radio] + img {
+  cursor: pointer;
+  width: 6em;
+  border-radius: 10px;
+  margin-right: 1em;
+}
+
+[type=radio]:checked + img {
+  box-shadow: 0 0 0 1px var(--gray-dark);
+}
+
+[type=radio]:hover + img {
+  box-shadow: 0 0 0 1px var(--gray-dark);
+}
+
+.color-div {
+  margin-bottom: 1em;
+}
+
