@@ -16,4 +16,6 @@ Site de vente de vêtement(CHAKAL'DRIP) :
 4°) Ne pas utiliser dans un cadre professionnel sauf approbation de ma part.
 
 <br><br>
+
+<img width="1440" alt="Capture d’écran 2021-04-04 à 15 05 40" src="https://user-images.githubusercontent.com/61329786/113509675-3ba08100-9557-11eb-998f-971141a6b1a4.png">
 Copyright © 2021, tout droits réservés
