@@ -1,5 +1,5 @@
 # ChakalDrip
-Site de vente de vêtement(chakal'Drip) crée par J.A 
+Site de vente de vêtement(CHAKAL'DRIP) :
 
 1°) Ce site est en cours de construction, il n'est pas encore complet. 
 
