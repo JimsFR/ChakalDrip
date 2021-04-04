@@ -35,8 +35,6 @@ Site de vente de vêtement(CHAKAL'DRIP) :
 
 <p>Product page 2 :</p>
 <img width="1440" alt="Capture d’écran 2021-04-04 à 15 09 40" src="https://user-images.githubusercontent.com/61329786/113509802-c97c6c00-9557-11eb-8266-8b014164551c.png">
-Copyright © 2021, tout droits réservés
-
 
 
 <br>
