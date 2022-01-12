@@ -1,7 +1,5 @@
 # ChakalDrip
 Site de vente de vêtement(CHAKAL'DRIP) :
-
-<br>
 <p>
 Lien : https://github.com/jabibamman/ChakalDrip
   </p>
