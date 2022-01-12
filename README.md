@@ -1,7 +1,7 @@
 # ChakalDrip
 Site de vente de vêtement(CHAKAL'DRIP) :
 <p>
-Lien : https://github.com/jabibamman/ChakalDrip
+Lien : http://james.abib.free.fr/
   </p>
 <p>
   1°) Ce site est en cours de construction, il n'est pas encore complet.
